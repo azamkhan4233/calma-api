@@ -2,7 +2,9 @@
 
 Calma API is the backend service for the Calma Salon Booking Application, built with Java Spring Boot. It provides RESTful APIs for managing users, salons, services, and booking appointments.
 
-Features
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Features:-
 
 User registration and authentication
 
@@ -16,7 +18,9 @@ Role-based access (Admin, Salon Owner, User)
 
 Secure API endpoints with JWT authentication
 
-Tech Stack
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Tech Stack:-
 
 Java 17+
 
